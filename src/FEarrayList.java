@@ -32,6 +32,8 @@ public class FEarrayList {
             System.out.println(secondList.remove(0));
         }
 
+        // I've modified the code just for testing...
+
         sc.close();
     }
 }
